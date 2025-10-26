@@ -29,7 +29,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: brands/github
-    url: https://github.com/etokoro-etunkoro
+    url: https://github.com
 
 interests:
   - Large Language Models
