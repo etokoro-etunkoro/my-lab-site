@@ -3,10 +3,7 @@
 title: 'zekkido takayoshi'
 date: 2022-10-24
 type: landing
-role: master's student (year1)
-bio: 金属酸化物の化学気相成長法と半導体デバイス応用の研究をしています。
-organization:
-  - name: kyoto-u.
+
 
 design:
   # Default section spacing
