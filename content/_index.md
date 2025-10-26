@@ -1,10 +1,9 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'zekkido takayoshi'
+title: '行住坐臥'
 date: 2022-10-24
 type: landing
-role: master's student (year1)
-bio: 金属酸化物の化学気相成長法と半導体デバイス応用の研究をしています。
+
 organization:
   - name: kyoto-u.
 
