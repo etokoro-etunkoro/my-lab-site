@@ -30,10 +30,11 @@ profiles:
     url: https://github.com
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - MEMS
+  - パワー半導体
+  - 筋トレ
+  - 自動車(特にEV)
+  - 競技プログラミング
 
 education:
   - area: 京都大学 工学部
