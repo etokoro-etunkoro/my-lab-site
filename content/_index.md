@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'zekkido takayoshi'
+title: '行住坐臥 常在戦場'
 date: 2022-10-24
 type: landing
 
