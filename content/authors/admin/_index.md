@@ -8,9 +8,7 @@ name_pronunciation: ''
 
 
 
-# Status emoji
-status: sleeping
-icon: 🛌
+
 
 # Is this the primary user of the site?
 superuser: true
