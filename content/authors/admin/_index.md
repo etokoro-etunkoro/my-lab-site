@@ -58,7 +58,7 @@ education:
     institution: any company or any university
     icon: ""
     date_start: 2027-04-01
-    date_end: 0000-00-00
+    date_end: 9999-09-09
     summary: |
       どこにも、ない。
 
