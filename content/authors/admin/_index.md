@@ -96,14 +96,18 @@ skills:
         description: 'マイコンの組み込み'
         percent: 85
         icon: cpu-chip
+      - name: SEM/TEM
+        description: '表面観察・断面観察'
+        percent: 85
+        icon: microscope
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Building Custom PCs
+      - name: play in orchestra
         description: ''
         percent: 90
-        icon: violin
+        icon: music
       - name: Sci-Fi Reading
         description: ''
         percent: 70
