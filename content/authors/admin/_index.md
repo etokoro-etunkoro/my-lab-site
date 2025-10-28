@@ -43,44 +43,45 @@ education:
     date_end: 2025-03-31
     summary: |
       そこには、まだなにもない。
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+    #button:
+      #text: 'Read Thesis'
+      #url: 'https://example.com/thesis.pdf'
 
   - area: 京都大学大学院　工学研究科
     institution: Kyoto University
     icon: ""
     date_start: 2025-04-01
-    date_end: 9999-12-31
+    date_end: 2027-04-01
     summary: |
-      ここにも、まだなにもない
-  - area: BS Computer Science
-    institution: MIT
+      ここにも、まだなにもない。
+  - area: 未定
+    institution: any company or any university
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2027-04-01
+    date_end: 0000-00-00
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      どこにも、ない。
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: ガリウム系半導体材料の研究
+    company_name: Kyoto University
+    #company_url: 'https://example.com/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2025-04-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      ワイドバンドギャップ半導体として、ガリウム系に注目。
+      主に前工程系の研究をしています。
+      進路は未定です。
+  - position: のほほんとした学部生
+    #company_name: OpenAI
+    #company_url: 'https://openai.com/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2021-04-01
+    date_end: 2025-03-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      なんとか卒業しました。
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
