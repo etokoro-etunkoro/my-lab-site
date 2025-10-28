@@ -60,7 +60,7 @@ education:
     date_start: 2027-04-01
     date_end: 9999-09-09
     summary: |
-      どこにも、ない。
+      もうどこにも、ない。
 
 work:
   - position: ガリウム系半導体材料の研究
@@ -93,21 +93,17 @@ skills:
         percent: 60
         icon: code-bracket
       - name: C++
-        description: '組み込み'
+        description: 'マイコンの組み込み'
         percent: 85
         icon: cpu-chip
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
       - name: Building Custom PCs
         description: ''
         percent: 90
-        icon: cpu-chip
+        icon: violin
       - name: Sci-Fi Reading
         description: ''
         percent: 70
