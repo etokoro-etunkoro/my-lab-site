@@ -50,7 +50,7 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: blog
+      page_type: post
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -66,11 +66,16 @@ sections:
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
+      show_summary: true
+      show_tags: true
+      show_date: true
     design:
       # Choose a layout view
-      view: card
+      view: compact
+      columns: '1'
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
 
 ---
