@@ -153,4 +153,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+京都大学工学研究科の修士1回生です。普段は半導体材料の研究と、ストリートファイター6をしています。このサイトでは普段考えていることや研究のことなどを、アウトリーチ的に書いていきます。ちなみにアルバイトを探しています！
