@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: '行住坐臥 常在戦場'
+title: 'walking, standing, sitting, and lying, on the battleFeild'
 date: 2022-10-24
 type: landing
 

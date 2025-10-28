@@ -1,6 +1,6 @@
 ---
 # Display name
-title: zekkido takayoshi (this is a pen name)
+title: zekkido takayoshi (pen name)
 
 # Name pronunciation (optional)
 name_pronunciation: ''
