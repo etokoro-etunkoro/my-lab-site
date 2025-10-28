@@ -71,7 +71,7 @@ sections:
       show_date: true
     design:
       # Choose a layout view
-      view: compact
+      view: list
       columns: '1'
       # Reduce spacing
       spacing:
