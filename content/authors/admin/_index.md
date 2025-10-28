@@ -114,37 +114,40 @@ skills:
         icon: book-open
 
 languages:
-  - name: English
+  - name: Japanese
     percent: 100
-  - name: Spanish
+  - name: English
     percent: 50
+  - name: Chinese
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+#awards:
+ # - title: Best Paper Award
+  # date: '2022-12-01'
+   # awarder: NeurIPS
+    #icon: hero/trophy
+#    summary: |
+#      Awarded for groundbreaking work on efficient training of large models.
+#  - title: AI Innovation Grant
+#    url: https://www.nsf.gov/
+#    date: '2021-06-15'
+#    awarder: National Science Foundation
+#    icon: hero/currency-dollar
+#    summary: |
+#      $500,000 grant for research in ethical AI development.
+##  - title: Outstanding PhD Thesis
+ #   url: https://www.stanford.edu/
+ #   date: '2019-06-30'
+#    awarder: Stanford University
+#    icon: hero/academic-cap
+#    summary: |
+#      Recognized for contributions to scaling laws in deep learning.
+
+
 ---
 
 京都大学工学研究科の修士1回生です。普段は半導体材料の研究と、ストリートファイター6をしています。このサイトでは普段考えていることや研究のことなどを、アウトリーチ的に書いていきます。ちなみにアルバイトを探しています！
