@@ -43,11 +43,10 @@ sections:
     design:
       columns: '1'
 
-
   - block: collection
     id: news
     content:
-      title: Recent Post
+      title: Recent Posts
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -74,3 +73,4 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
 
+---
