@@ -88,18 +88,14 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
+      - name: Python
+        description: '競技プログラミング'
+        percent: 60
         icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
+      - name: C++
+        description: '組み込み'
         percent: 85
-        icon: cloud
+        icon: cpu-chip
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
